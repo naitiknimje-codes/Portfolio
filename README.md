@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This portfolio showcases my background
 
 ## 🌍 Live Demo
 
-🔗 **https://naitiknimje-codes.github.io/Portfolio/**
+🔗 **https://naitiknimje-codes.github.io/Personal-Portfolio/**
 
 ## 📬 Connect With Me
 
